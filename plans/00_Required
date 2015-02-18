@@ -5,6 +5,9 @@ linux-image-amd64
 squashfs-tools 
 lvm2 
 
+# Legacy network tools
+net-tools
+
 # Misc
 sudo
 busybox 

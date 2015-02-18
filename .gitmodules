@@ -1,3 +1,4 @@
-[submodule "bootstrap/install"]
-	path = bootstrap/install
+[submodule "onos-install"]
+	path = onos-install
 	url = git@github.com:invite-networks/onos-install.git
+	branch = master
