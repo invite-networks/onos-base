@@ -1,5 +1,6 @@
 # Linux Kernel
 linux-image-amd64 
+grub2
 
 # FS tools
 squashfs-tools 
@@ -9,6 +10,7 @@ lvm2
 net-tools
 
 # Misc
+whiptail
 sudo
 busybox 
 firmware-linux-free 
