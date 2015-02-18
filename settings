@@ -1,0 +1,7 @@
+# Name of the ISO
+IMAGE_NAME=onos
+
+# Version of the ISO
+VERSION=1.8.1
+
+

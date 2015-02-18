@@ -1,0 +1,3 @@
+# Admin user and password
+useradd -m -s /bin/bash -u 10000 -G sudo admin
+printf "admin\nadmin\n" | passwd admin
