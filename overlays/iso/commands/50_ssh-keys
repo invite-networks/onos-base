@@ -1,0 +1,6 @@
+# Remove any ssh keys we have
+rm -f /etc/ssh/*key*
+
+# Regenerate the keys
+dpkg-reconfigure openssh-server
+

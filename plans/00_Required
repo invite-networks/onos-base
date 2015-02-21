@@ -10,7 +10,7 @@ lvm2
 net-tools
 
 # Misc
-whiptail
+dialog
 sudo
 busybox 
 firmware-linux-free 

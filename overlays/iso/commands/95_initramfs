@@ -1,0 +1,8 @@
+# Remvoe the flopyy module
+modprobe -r floppy
+
+# Update the list of modules
+depmod -a
+
+# Update initramfs
+update-initramfs -u
