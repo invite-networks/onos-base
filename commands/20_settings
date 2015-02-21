@@ -1,6 +1,6 @@
 # Move the dialog rc file
 mv /etc/skel/dialogrc /etc/skel/.dialogrc
-mv /root/dialogrc /root/.dialogrc
+ln -sf /etc/skel/dialogrc /root/.dialogrc
 
 # Root bashrc
 mv /root/bashrc /root/.bashrc

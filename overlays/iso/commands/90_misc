@@ -1,0 +1,3 @@
+# Root bashrc
+mv /root/bashrc /root/.bashrc
+
