@@ -1,4 +1,4 @@
-# Remvoe the flopyy module
+# Remove the floppy module
 modprobe -r floppy
 
 # Update the list of modules
