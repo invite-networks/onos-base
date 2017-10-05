@@ -3,6 +3,3 @@ IMAGE_NAME='onos'
 
 # Version of the ISO
 VERSION='1.9.1'
-
-# Bootstrap to be used
-BOOTSTRAP='onos-bootstrap'
